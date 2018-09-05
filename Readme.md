@@ -6,7 +6,7 @@ Basic WebStorm settings to looks like Visual Code Dark theme.
 * In the Select Components to Import dialog box that opens specify the settings to be imported, and click OK. By default, all settings are selected. 
 
 ## Dependencies
-* Material UI plugin
+* Material Theme UI plugin
 * vscode dark+ Color Scheme Font from https://github.com/lenny1882/vscode-dark-plus-webstorm
 
 ## Additional Info   
