@@ -1,4 +1,4 @@
-# Description
+## Description
 Basic WebStorm settings to looks like Visual Code Dark theme.
 ## Importing settings from a JAR archive
 * Choose File | Import Settings from the main menu.
